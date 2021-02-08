@@ -1,0 +1,10 @@
+[2021-01-22 10:41:56,979] [autoreload.py:617] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-01-22 10:41:59,068] [log.py:230] [log:log_response] [WARNING]- Not Found: /
+[2021-01-22 10:41:59,068] [basehttp.py:157] [basehttp:log_message] [WARNING]- "GET / HTTP/1.1" 404 2163
+[2021-01-22 10:41:59,286] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-01-22 10:41:59,288] [basehttp.py:157] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2214
+[2021-01-22 10:42:06,431] [views.py:9] [views:initial_page] [INFO]- start!!!
+[2021-01-22 10:42:06,441] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /initial/ HTTP/1.1" 200 16379
+[2021-01-22 10:42:06,476] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/vendors/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 155758
+[2021-01-22 11:25:29,462] [log.py:230] [log:log_response] [WARNING]- Not Found: /initial/index.html
+[2021-01-22 11:25:29,462] [basehttp.py:157] [basehttp:log_message] [WARNING]- "GET /initial/index.html HTTP/1.1" 404 2235

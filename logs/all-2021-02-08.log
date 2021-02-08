@@ -1,0 +1,21 @@
+[2021-02-08 10:49:21,002] [autoreload.py:617] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2021-02-08 10:49:22,805] [log.py:230] [log:log_response] [WARNING]- Not Found: /
+[2021-02-08 10:49:22,805] [basehttp.py:157] [basehttp:log_message] [WARNING]- "GET / HTTP/1.1" 404 2163
+[2021-02-08 10:49:22,969] [log.py:230] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2021-02-08 10:49:22,970] [basehttp.py:157] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2214
+[2021-02-08 10:49:26,606] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /initial HTTP/1.1" 301 0
+[2021-02-08 10:49:26,610] [views.py:9] [views:initial_page] [INFO]- start!!!
+[2021-02-08 10:49:26,625] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /initial/ HTTP/1.1" 200 16379
+[2021-02-08 10:49:26,668] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/vendors/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 155758
+[2021-02-08 10:49:26,669] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/vendors/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 29063
+[2021-02-08 10:49:26,679] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/vendors/nprogress/nprogress.css HTTP/1.1" 200 1458
+[2021-02-08 10:49:26,680] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/vendors/nprogress/nprogress.js HTTP/1.1" 200 11565
+[2021-02-08 10:49:26,682] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/vendors/fastclick/lib/fastclick.js HTTP/1.1" 200 25965
+[2021-02-08 10:49:26,685] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/vendors/bootstrap/dist/js/bootstrap.bundle.min.js HTTP/1.1" 200 78635
+[2021-02-08 10:49:26,686] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/build/css/custom.min.css HTTP/1.1" 200 80510
+[2021-02-08 10:49:26,687] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/vendors/jquery/dist/jquery.min.js HTTP/1.1" 200 85578
+[2021-02-08 10:49:26,695] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /initial/media/images/img.jpg HTTP/1.1" 200 4077
+[2021-02-08 10:49:26,696] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/build/js/custom.min.js HTTP/1.1" 200 71554
+[2021-02-08 10:49:26,809] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/vendors/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 71896
+[2021-02-08 10:51:31,441] [log.py:230] [log:log_response] [WARNING]- Not Found: /initial/index.html
+[2021-02-08 10:51:31,442] [basehttp.py:157] [basehttp:log_message] [WARNING]- "GET /initial/index.html HTTP/1.1" 404 2235
